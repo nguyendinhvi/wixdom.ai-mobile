@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>627097684410-02k1iuqfrqq3b80ch83b1gb1oo5ssdo5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.627097684410-02k1iuqfrqq3b80ch83b1gb1oo5ssdo5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA3UUm1wYtCXnaXQIxUC78VI4A39Py2OQA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>627097684410</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.wixdom.stg.wixdomfemobile</string>
+	<key>PROJECT_ID</key>
+	<string>wixdomfemobile</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wixdomfemobile.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:627097684410:ios:5ac78e13ac27d95c507583</string>
+</dict>
+</plist>

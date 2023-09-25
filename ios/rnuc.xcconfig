@@ -1,0 +1,3 @@
+// DO NOT COMMIT OR EDIT THIS FILE
+ENV=init
+API_URL=https:/$()/jsonplaceholder.typicode.com/
